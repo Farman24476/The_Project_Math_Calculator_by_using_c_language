@@ -1,0 +1,13 @@
+Hi! Welcome to Math Calculator.
+Please enter your name: 
+Hello Md Farman ALi! Welcome to Math Calculator.
+
+To begin, please enter two numbers.
+First number: Second number: 
+You have entered 23.00 and 23.00.
+The addition of 23.00 and 23.00 is equal to 46.00.
+The subtraction of 23.00 and 23.00 is equal to 0.00.
+The multiplication of 23.00 and 23.00 is equal to 529.00.
+The division of 23.00 and 23.00 is equal to 1.00.
+
+Thank you for using Math Calculator!
